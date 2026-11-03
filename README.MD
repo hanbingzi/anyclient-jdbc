@@ -16,7 +16,7 @@
 ![gitee](./doc/icons/main/gitee.svg)
 [Gitee主页地址](https://gitee.com/hanbingzi)
 
-AnyClient JDBC Driver 用于支持AnyClient部门客户端的操作驱动。
+AnyClient JDBC Driver 用于支持AnyClient部分客户端的操作驱动。
 
 
 ## 项目目录
